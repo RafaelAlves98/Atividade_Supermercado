@@ -11,4 +11,4 @@ Sistema de gerenciamento de pedidos e estoque para supermercados.
 2. Entre no diretório: `cd Atividade_Supermercado`
 3. Execute: `mvn spring-boot:run`
 4. Acesse a API em: `http://localhost:8080`
-5. Veja a documentação em: `http://localhost:8080/swagger-ui.html`
+5. Veja a documentação em: `http://localhost:8080/swagger-ui/index.html`
