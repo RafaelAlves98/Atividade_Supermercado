@@ -7,7 +7,7 @@ Sistema de gerenciamento de pedidos e estoque para supermercados.
 - Git
 
 ## Como rodar
-1. Clone o repositório: `git clone https://github.com/seu-usuario/supermercado-gestao.git`
+1. Clone o repositório: `git clone [https://github.com/seu-usuario/supermercado-gestao.git](https://github.com/[seu-usuario]/Atividade_Supermercado.git)`
 2. Entre no diretório: `cd supermercado-gestao`
 3. Execute: `mvn spring-boot:run`
 4. Acesse a API em: `http://localhost:8080`
